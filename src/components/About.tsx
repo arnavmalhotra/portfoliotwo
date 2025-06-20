@@ -12,11 +12,6 @@ export default function About() {
           serve hundreds of users, automated workflows that save 90+ hours weekly, and conducted research on 
           explainable AI for medical applications at IIT Roorkee.
         </p>
-        <p className="text-gray-700 leading-relaxed">
-          I&apos;m particularly interested in educational technology, AI applications, and building tools that make a 
-          real difference in people&apos;s lives. Whether it&apos;s helping students manage their schedules, automating 
-          tedious workflows, or making AI more transparent, I&apos;m driven by the impact technology can have.
-        </p>
       </div>
     </section>
   )
